@@ -8,4 +8,4 @@ Bir süre cinlerle başa çıkmaya çalışan din adamları yaptıkları gözlem
 
 Nanotrasen ise bu cinlerin mürettebatı rahatsız edebileceği tehlikesini de göze alarak istasyona bir din adamı atamıştır.
 
-![Revenant](https://github.com/Oynumt1/Psychonaut-Lore/assets/151470732/10c2f06e-ef47-44df-9bc8-73cb24385f5b)
+![Uploading maxresdefault.png…]()
