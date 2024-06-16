@@ -7,5 +7,3 @@ Cinler mitolojik çağlardan beri inanılan mistik canlılar olmasının yanı s
 Bir süre cinlerle başa çıkmaya çalışan din adamları yaptıkları gözlemler sonucunda cinlerin ölü bireylerin ruhlarıyla beslendiği ve tuz, kutsal su gibi maddelerden zarar gördüğü fark edilmiştir. Bunun fark edilmesi üzerine bu bilgiler nesilden nesile aktarılmış 26. yüzyıla kadar ulaşmıştır.
 
 Nanotrasen ise bu cinlerin mürettebatı rahatsız edebileceği tehlikesini de göze alarak istasyona bir din adamı atamıştır.
-
-![Uploading maxresdefault.png…]()
