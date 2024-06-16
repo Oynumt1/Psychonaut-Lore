@@ -7,3 +7,5 @@ Cinler mitolojik çağlardan beri inanılan mistik canlılar olmasının yanı s
 Bir süre cinlerle başa çıkmaya çalışan din adamları yaptıkları gözlemler sonucunda cinlerin ölü bireylerin ruhlarıyla beslendiği ve tuz, kutsal su gibi maddelerden zarar gördüğü fark edilmiştir. Bunun fark edilmesi üzerine bu bilgiler nesilden nesile aktarılmış 26. yüzyıla kadar ulaşmıştır.
 
 Nanotrasen ise bu cinlerin mürettebatı rahatsız edebileceği tehlikesini de göze alarak istasyona bir din adamı atamıştır.
+
+![Revenant](https://github.com/Oynumt1/Psychonaut-Lore/assets/151470732/b8cf0b4d-880b-4e7a-ab15-989769f26e01)
