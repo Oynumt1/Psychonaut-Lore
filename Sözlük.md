@@ -1,6 +1,8 @@
 # Anomaliler
 Cin - Revenant
+***
 Suretçalar - Changeling
+***
 Uzay Korsanları - Pirate
 Örümcekler - Spiders
 Kültistler - Cults
