@@ -1,4 +1,4 @@
-> ‘’SELAMLAR. BİZ BÜYÜCÜLER FEDERASYONUNUN BÜYÜCÜLERİYİZ.’’ 
+> ‘’ESENLİKLER! BİZ BÜYÜCÜLER FEDERASYONUNUN BÜYÜCÜLERİYİZ.’’ 
 Uzay İstasyonu 08’in tam anlamıyla ve bütünüyle buharlaşmasından önce kaydedilen son mesaj. 
 ***
 
