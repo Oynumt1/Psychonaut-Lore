@@ -1,5 +1,5 @@
 > "Yeter artık! Ne cinmiş be? Din adamı ne işe yarıyor?"
-- Çarpılmaktan bezmiş doktorun radyodan bağırdı iletiler.
+Çarpılmaktan bezmiş doktorun radyodan bağırdı iletiler.
 ***
 
 Cinler mitolojik çağlardan beri inanılan mistik canlılar olmasının yanı sıra elektriğin bulunmasının ardından mor silüetli cin söylemi halk arasında yaygınlaşmış dönemin din adamları buna çözüm bulmaya çalışmıştır. Bir zaman sonra din adamlarınına da görünnmeye başlamış ve din adamlarının bu cinden etkilenmediği anlaşılınca mücadele etme yöntemlerini keşfetme hızı artmıştır.
