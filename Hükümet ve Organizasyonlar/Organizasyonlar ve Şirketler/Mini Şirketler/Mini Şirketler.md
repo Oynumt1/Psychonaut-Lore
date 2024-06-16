@@ -1,5 +1,5 @@
 # Cybersun Endüstrisi
-Sendikanın bir numaralı kurumsal üyesidir. Tüketiciler için yüksek kalitede elektronik eşyalar, cyborglar, temel düzeyde sanal yapay zekalar üretir (Nanotrasen'in yeni teknoloji dışında)
+Sendikanın bir numaralı kurumsal üyesidir. Tüketiciler için yüksek kalitede elektronik eşyalar, cyborglar, temel düzeyde sanal yapay zekalar üretir (Nanotrasen'in yeni teknolojisi dışında)
 
 # Interdyne Eczacılık
 Sendika içerisinde kurumsal bir üyedir. Sağlık sektörü için çeşitli kimyasallar üretmenin yanı sıra özel uyutucu modeller, protezler, organ baskı cihazları ve ameliyathaneler için cerrahi malzemeler üretir.
