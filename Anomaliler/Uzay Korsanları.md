@@ -7,3 +7,5 @@ Uzay Korsanları uzayda gemileri ile seyehat eden bir grup yağmacı veyahut ça
 Uzay Korsanlarının Sendika ile bağlantısı ise plazmanın keşiflerine dayanır, Sendika ile anlaşarak Sendika destekli istasyon baskınları yapan Uzay Korsanları bu baskınlardan elde ettiği ganimetleri Sendikanın yardımları için bölüşür hatta Sendika Nanotrasen'e daha fazla salça olması adına kendi üst düzey personellerini korsanlara eğitim vermesi için zaman zaman gönderdiği bile olmuştur.
 
 Uzay Korsanları istasyonu baskına gelmeden önce istasyona kargo mallarının %80'ini öksürmeleri için mesaj çeker. Bir süre bu mesaja geri dönüt oluşmazsa korsanlar kendi elleri ile malları almak için istasyona gelirler. Bunun amacı ise Korsanların kolay yoldan para kazanmaya çalışmasıdır.
+
+![Designer_7](https://github.com/Oynumt1/Psychonaut-Lore/assets/151470732/c726c11d-1fb5-49ad-aff5-03029b4c4f36)
