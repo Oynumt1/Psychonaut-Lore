@@ -10,6 +10,7 @@ Uzay Korsanları - Pirate
 Kültistler - Cults
 ***
 Heretik - Heretic
+***
 
 # Türler
 Pullusoy - Lizard
@@ -17,6 +18,7 @@ Pullusoy - Lizard
 İnsan - Human
 ***
 Etheryal - Ethereal
+***
 
 # Hükümet ve Organizasyonlar
 Büyücüler Federasyonu - Wizard Federation
@@ -24,3 +26,4 @@ Büyücüler Federasyonu - Wizard Federation
 Sendika - Syndicate
 ***
 Örümcek Klanı - Spider Clan
+***
