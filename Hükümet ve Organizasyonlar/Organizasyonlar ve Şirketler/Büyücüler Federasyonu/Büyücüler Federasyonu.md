@@ -1,5 +1,5 @@
 > ‘’SELAMLAR. BİZ BÜYÜCÜLER FEDERASYONUNUN BÜYÜCÜLERİYİZ.’’ 
- -Space Station 08’in tam anlamıyla ve bütünüyle buharlaşmasından önce kaydedilen son mesaj. 
+ -Uzay İstasyonu 08’in tam anlamıyla ve bütünüyle buharlaşmasından önce kaydedilen son mesaj. 
 ***
 
 Uzay Büyücüleri Federasyonu, Spinward Sektöründe faaliyet gösterdiği bilinen ve galaksi çapında olduğundan şüphelenilen bir büyü kullanıcıları kolektifidir. İnsan topluluklarını uzay yolculuğu çağından önce bile etkilediklerine dair abartılı iddialar ortaya atılmıştır. Bu iddialardan bazıları bütün kötü olayları, diktatörleri ve tuhaf rastlantıları büyücü etkisine bağlarlar.
