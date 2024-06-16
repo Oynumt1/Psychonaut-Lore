@@ -11,6 +11,8 @@ Kültistler - Cults
 ***
 Heretik - Heretic
 ***
+Yabancı Form - Xenomorph
+*** 
 
 # Türler
 Pullusoy - Lizard
