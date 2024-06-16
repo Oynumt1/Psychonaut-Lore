@@ -1,5 +1,5 @@
 > "Yarr harr fiddlie dee."
--Terragov Barış Güçlerinin gemisini normal bir gemi sanıp yağmalamaya gelen korsanın son iletileri.
+Terragov Barış Güçlerinin gemisini normal bir gemi sanıp yağmalamaya gelen korsanın son iletileri.
 ***
 
 Uzay Korsanları uzayda gemileri ile seyehat eden bir grup yağmacı veyahut çapulcudan farksızdır, geçimlerini yağma ile geçirdikleri için ne kadar çok ganimet kazanırlarsa o kadar iyi bir hayat idame ettirebilecekleri için baskınlarını çok fazla yere atarlar. Ayrıca Uzay Korsanları tek çeşit gruplardan oluşmaz kimi Uzay Korsanının tayfası iskeletlerden oluşur kiminin tayfası ise insanlardan.
