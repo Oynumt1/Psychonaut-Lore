@@ -6,3 +6,4 @@ Suretçalarlar insanlık uzayı keşif ettiğinden beri insanlığa bela bir sor
 Suretçalarlar sülük böceği mantığı ile hareket eden bir yaratıktır, Suretçalar bazen bir düşen meteorun bazen ise bir hayvanın derisinin üzerinde kurbanını bekler halde olur. Suretçalar istediği şekilde bir organizma (Organizmanın karışık olması önemlidir; insan, pullusoy gibi.) üzerine yapışmayı becerirse çok kısa süre içerisinde beden üzerinde hakimiyet kurar ve organizmayı kendi emellei üzerinde hareket etmeye zorlar. Emelleri arasında insan öldürmek olan Suretçalarların davranışın asıl sebebi çeşitli gözlem yapan insanlar tarafından diğer Suretçalarlara kolaylık sağlamak için yaptığı tahmin edilir.
 
 Suretçalarların aslen nereden geldiği bilinmemekle beraber arkasında çok fazla soru işareti bırakan bir anomali türüdür.
+
