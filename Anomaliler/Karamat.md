@@ -6,3 +6,6 @@ Karamatlar çoğu zaman kişilerin yalnız olarak bulunduğu maintler, dormslar 
 Karamatlar ilk ortaya çıkışlarından itibaren (Tarih belirsiz muhtemel 22 yy. ortaları) konuşularak anlaşılmaya çalışılmış fakat bir türlü başarılı olunamamıştır.
 
 Nanotrasen maden tesisleri kurmaya başladığından beri madenlerde küçük küçük Karamat tapınaklarına rast gelmiş ve Nanotrasen madencileri ile Karamatlar arasında sürekli bir mücadele meydana gelmiştir. Nanotrasen yetkilileri ise bu durum günün sonunda madencileri tarafından Karamat tapınaklarını yıktıkları için bu durum pekte önemli karşılanmamıştır.
+
+
+*Karamat-Madenci çatışmasını simgeleyen bir fotoğraf*
