@@ -7,3 +7,6 @@ Suretçalarlar sülük böceği mantığı ile hareket eden bir yaratıktır, Su
 
 Suretçalarların aslen nereden geldiği bilinmemekle beraber arkasında çok fazla soru işareti bırakan bir anomali türüdür.
 
+![Ekran görüntüsü 2024-06-17 235557](https://github.com/Oynumt1/Psychonaut-Lore/assets/151470732/9eeca009-ae19-4478-9612-f071baa7be59)
+
+*Suretçaları temsil eden bir resim*
