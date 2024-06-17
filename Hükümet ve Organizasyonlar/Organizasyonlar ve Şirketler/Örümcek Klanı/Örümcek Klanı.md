@@ -1,5 +1,5 @@
 > "Kişisel değil, çocuk"
- -Space Station 11'in kaptanını öldürmek için gelen bir ninjanın kaptan odasında kayıt edilen tek iletisi.
+ -Uzay İstasyonu 11'in kaptanını öldürmek için gelen bir ninjanın kaptan odasında kayıt edilen tek iletisi.
 ***
 
 Birkaç yüzyıldır varlığını sürdüren Örümcek Klanı tarikatımsı bir yapıya sahiptir. Örümcek Klanı kusursuz konuma gelmek ve Postmodern Uzay Bushido'sunu takip etmek için insan etinin bir tür büyütülmesini uygular.
