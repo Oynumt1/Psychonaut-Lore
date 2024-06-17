@@ -1,5 +1,12 @@
 > ‘’ESENLİKLER! BİZ BÜYÜCÜLER FEDERASYONUNUN BÜYÜCÜLERİYİZ.’’ 
 Uzay İstasyonu 08’in tam anlamıyla ve bütünüyle buharlaşmasından önce kaydedilen son mesaj. 
+
+
+
+https://github.com/Oynumt1/Psychonaut-Lore/assets/151470732/4fb26b27-eb29-4d55-b397-2254d5bec8c4
+
+
+
 ***
 
 Uzay Büyücüleri Federasyonu, Spinward Sektöründe faaliyet gösterdiği bilinen ve galaksi çapında olduğundan şüphelenilen bir büyü kullanıcıları kolektifidir. İnsan topluluklarını uzay yolculuğu çağından önce bile etkilediklerine dair abartılı iddialar ortaya atılmıştır. Bu iddialardan bazıları bütün kötü olayları, diktatörleri ve tuhaf rastlantıları büyücü etkisine bağlarlar.
