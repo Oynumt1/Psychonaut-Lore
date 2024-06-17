@@ -1,4 +1,4 @@
-# KANLI 23 NİSAN 2556
+# KANLI 23 NİSAN
 
 23-04-2556, Lokasyon: Nanotrasen 13. Uzay İstasyonu.
 
