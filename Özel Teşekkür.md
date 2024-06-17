@@ -1,7 +1,7 @@
 # LOREDA EMEĞİ GEÇENLER
 - oynumt
 - reveyni
-- buuuuuuuuuuuuuuu
+- wetto
 - Molcallos
 - Skewnoss
 - eray_0
