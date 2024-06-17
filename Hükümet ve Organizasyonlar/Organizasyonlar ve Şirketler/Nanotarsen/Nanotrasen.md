@@ -1,6 +1,15 @@
 "Nereye gidersek gidelim, Nanotrasen orada!" 
 
 -TerraGov'un kıdemli istihbarat görevlisi Laura Kripac'ın, Nanotrasen'in TG'yi pulse weapon teknolojisi konusunda on yıl geride bıraktığını öğrendikten sonra. Alıntı basına sızdırıldı ve o zamandan beri NT çalışanları arasında resmi olmayan bir slogan haline geldi.
+
+Alıntının Sesli Hali:
+
+
+
+https://github.com/Oynumt1/Psychonaut-Lore/assets/151470732/fd662ce2-3ef1-40c1-84a1-fa5ebdeb3127
+
+
+
 ***
 
 Nanotrasen çok ama çok büyük ve önemli bir şirket. Aslında o kadar büyük bir şirket ki, kendi seferi filolarını oluşturmak ve Sol sistemi dışında kendi yerleşimlerini kurmak için TerraGov'dan ayrıcalık almasına yetecek kadar.Yatırımlarının büyük bir kısmı Sol sistemine bağlıyken, özellikle böyle bir ayrıcalık alan ve uzayın uzak bölgelerine yoğun yatırım yapan ilk özel şirkettir. O zamanlar bu inanılmaz derecede riskli bir kumar olarak görülüyordu, uzayı keşfetmeye ve derin uzay görevlerini başlatmaya harcanan tüm paranın şirketi batıracak bir israf olacağı konusunda büyük fikir ayrılığı vardı, ancak kumar fazlasıyla karşılığını verdi ve Nanotrasen'in portföyü o zamandan beri arttı.
