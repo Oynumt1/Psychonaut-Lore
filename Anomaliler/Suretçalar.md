@@ -1,4 +1,4 @@
-"Eh... Güvenlik şefi olarak bir gariplik AGHH" * "ARBEDE SESLERİ, SES CIZIRTISI* "Yanlış görmüşüm, her şey yerli yerinde. İşinize dönün." Kim ve nerde iletildiği bilinmeyen bir radyo iletisi.
+"Güvenlik Şefi Zen Işıkyıldızı bildiriyor, sanırım bu departmanda yolunda gitmeyen bazı şeyle-" * "ARBEDE SESLERİ, SES CIZIRTISI* " Yanlış alarm, her şey gayet yerli yerinde. İşinizin başına geri dönebilirsiniz." Kim ve nerde iletildiği bilinmeyen bir radyo iletisi.
 
 İletinin sesli hali:
 
