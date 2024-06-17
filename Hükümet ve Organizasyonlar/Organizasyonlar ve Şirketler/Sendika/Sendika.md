@@ -2,6 +2,11 @@
 
 -İsmini vermeyen bir sendika ajanı, istemeden de olsa sendikanın resmi olmayan sloganını alıntılamış.
 
+
+https://github.com/Oynumt1/Psychonaut-Lore/assets/151470732/da3a7481-d11b-4c15-814b-cb09d917f631
+
+
+
 ***
 
 Cybersun Endüstirsi tarafından bir kaç yüzyıl önce kuruldu. Spinward Sendikası (direkt Sendika olarakta kısaltılabilir.) Belli başlı şirketlerin oluşturduğu, içerisinde hırsızların, serserilerin, paralı askerlerin, kafayı sıyırmış bilim adamlarının ve özel olarak eğitilmiş olan ajanların bulunduğu oluşumdur. Asıl hedefleri ise Nanotraseni Spinward uzay bölgesinden atmaktır. Sendika içerisinde bulunan şirketlerin (aşağıda listelenen) hepsi ayrı alanlara yönelir. Bazıları ateş gücü ve taktiksel güçlerini kullanarak saha operasyonları gerçekleştirirken, bazı şirketler ise daha arkaplanda kalıp bilgi toplama, ajan yollama ve kaynak organize etme gibi işler gerçekleştirir.
