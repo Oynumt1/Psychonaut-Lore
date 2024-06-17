@@ -33,8 +33,11 @@ Kapsamlı inşaat ve imalat şirketidir. Mühendislik ekipmanları ve gerekli k�
 
 *Ayrıca Nakamura Mühendislik NT gibi şirketler için RCDler ve mühendislik malzemeleri üretirler.*
 
+# Samanyolu Jet Anonim Şirketi
+Aya koloni atılmasından itibaren sivil uzay gemiler tasarlayan bir şirkettir.
+
 # Megasus Havacılık
-Aya koloni atılmasından itibaren uzaya ait gemiler tasarlayan bir şirkettir.
+Aya koloni atılmasından itibaren askeri uzay gemileri tasarlayan şirkettir
 
 # DeForest Medikal Şirketi
 Eczacılık temelli bir şirkettir. Acil durum şırıngaları ve çeşitli medikal ekipmanlar üretirler.
