@@ -8,5 +8,6 @@ Karamatlar ilk ortaya çıkışlarından itibaren (Tarih belirsiz muhtemel 22 yy
 Nanotrasen maden tesisleri kurmaya başladığından beri madenlerde küçük küçük Karamat tapınaklarına rast gelmiş ve Nanotrasen madencileri ile Karamatlar arasında sürekli bir mücadele meydana gelmiştir. Nanotrasen yetkilileri ise bu durum günün sonunda madencileri tarafından Karamat tapınaklarını yıktıkları için bu durum pekte önemli karşılanmamıştır.
 
 ![Ekran görüntüsü 2024-06-17 222557](https://github.com/Oynumt1/Psychonaut-Lore/assets/151470732/0d1bfc7a-5307-4fba-8936-7629749f939c)
+
+
 *Karamat-Madenci çatışmasını simgeleyen bir fotoğraf*
-***
