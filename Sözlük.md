@@ -1,37 +1,37 @@
 # Anomaliler
-Cin - Revenant
+- Cin - Revenant
 ***
-Suretçalar - Changeling
+- Suretçalar - Changeling
 ***
-Uzay Korsanları - Pirate
+- Uzay Korsanları - Pirate
 ***
-Örümcekler - Spiders
+- Kültistler - Cults
 ***
-Kültistler - Cults
+- Heretik - Heretic
 ***
-Heretik - Heretic
+- Yabancı Form - Xenomorph
 ***
-Yabancı Form - Xenomorph
+- Karabasan - Nightmare
 ***
-Karabasan - Nightmare
+- Alıkoyucu - Abducator
 ***
 
 # Türler
-Pullusoy - Lizard
+- Pullusoy - Lizard
 ***
-İnsan - Human
+- İnsan - Human
 ***
-Etheryal - Ethereal
+- Etheryal - Ethereal
 ***
 
 # Hükümet ve Organizasyonlar
-Büyücüler Federasyonu - Wizard Federation
+- Büyücüler Federasyonu - Wizard Federation
 ***
-Sendika - Syndicate
+- Sendika - Syndicate
 ***
-Örümcek Klanı - Spider Clan
+- Örümcek Klanı - Spider Clan
 ***
 
 # DİĞER
-Merkezi Komuta - Centcom
+- Merkezi Komuta - Centcom
 ***
