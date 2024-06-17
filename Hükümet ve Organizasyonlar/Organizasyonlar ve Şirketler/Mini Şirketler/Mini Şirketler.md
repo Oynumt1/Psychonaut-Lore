@@ -1,4 +1,4 @@
-# Cybersun Endüstrisi
+# Cybersun Megakorp
 Sendikanın bir numaralı kurumsal üyesidir. Tüketiciler için yüksek kalitede elektronik eşyalar, cyborglar, temel düzeyde sanal yapay zekalar üretir (Nanotrasen'in yeni teknolojisi dışında)
 
 # Interdyne Eczacılık
