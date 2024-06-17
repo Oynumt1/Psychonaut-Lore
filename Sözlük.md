@@ -13,7 +13,7 @@ Heretik - Heretic
 ***
 Yabancı Form - Xenomorph
 ***
-Karamat
+Karamat - Nightmare
 ***
 
 # Türler
