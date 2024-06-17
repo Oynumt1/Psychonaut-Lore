@@ -1,4 +1,4 @@
-> "Kişisel değil, çocuk"
+> "Kişisel değil, evlat"
  -Uzay İstasyonu 11'in kaptanını öldürmek için gelen bir ninjanın kaptan odasında kayıt edilen tek iletisi.
 ***
 
