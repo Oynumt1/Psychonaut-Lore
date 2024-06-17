@@ -10,7 +10,7 @@ Sendika içerisinde kurumsal bir üyedir. Oyuncaklar, mekikler için çeşitli p
 # Waffle Limitet Şirketi
 Sendika içerisinde kurumsal bir üyedir. Kahvaltılık yiyecekler üretir, aslında kara borsa için zaman zaman ateşli silahlar bile üretebilir.
 
-Buraya kadar okuduğunuz şirketler sendika hizmetinde olmakla beraber şirket kurucuları genellikle Asya kökenlidir.
+Buraya kadar okuduğunuz şirketler sendika hizmetinde olmakla beraber şirket kurucuları genellikle Asya ve Avrupa kökenlidir.
 -
 
 # Apadyne Teknolojileri
@@ -33,6 +33,8 @@ Kapsamlı inşaat ve imalat şirketidir. Mühendislik ekipmanları ve gerekli k�
 
 *Ayrıca Nakamura Mühendislik NT gibi şirketler için RCDler ve mühendislik malzemeleri üretirler.*
 
+# Megasus Havacılık
+Aya koloni atılmasından itibaren uzaya ait gemiler tasarlayan bir şirkettir.
 
 # DeForest Medikal Şirketi
 Eczacılık temelli bir şirkettir. Acil durum şırıngaları ve çeşitli medikal ekipmanlar üretirler.
