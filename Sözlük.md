@@ -12,7 +12,9 @@ Kültistler - Cults
 Heretik - Heretic
 ***
 Yabancı Form - Xenomorph
-*** 
+***
+Karamat
+***
 
 # Türler
 Pullusoy - Lizard
