@@ -1,4 +1,12 @@
 "Eh... Güvenlik şefi olarak bir gariplik AGHH" * "ARBEDE SESLERİ, SES CIZIRTISI* "Yanlış görmüşüm, her şey yerli yerinde. İşinize dönün." Kim ve nerde iletildiği bilinmeyen bir radyo iletisi.
+
+İletinin sesli hali:
+
+
+https://github.com/Oynumt1/Psychonaut-Lore/assets/151470732/154e6942-c46e-4d5b-9554-d81efcd492ae
+
+
+
 ***
 
 Suretçalarlar insanlık uzayı keşif ettiğinden beri insanlığa bela bir sorun haline gelmiş ve bu sorunla başa çıkmak için alanında uzmanlar Suretçalarları dizginleyebilmek için taktiksel savunma, saldırı metotları geliştirmiştir.
