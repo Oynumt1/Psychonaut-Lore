@@ -1,4 +1,4 @@
-"SsSsSS SssSsSS sSSSSss SSsssSsSSsss!!"
+> "SsSsSS SssSsSS sSSSSss SSsssSsSSsss!!"
 ***
 # Temel
 Ksenomorflar güçlü derileriyle ve duvar arkasını görebilecek kadar güçlü gözleriyle tanınsa bile o kadar basit canlılar değillerdir.
