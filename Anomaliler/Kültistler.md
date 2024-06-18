@@ -1,7 +1,10 @@
 > "Nar'Sie yükseliyor! Nar'Sie'nin şanını kanınla alacağım!"
+
+https://github.com/Oynumt1/Psychonaut-Lore/assets/151470732/9f0637cd-517d-4b28-beb1-57a038fd3b83
+
 ***
 
-Kültistler temel olarak ikiye ayrılsa bile şuan yaşayan kültler Nar'Sie olarak devam eder.
+Kültistler temel olarak ikiye ayrılsa bile şuan yaşayan kültler Kan Kültistleri olarak devam eder.
 
 İlk olarak Kan Kültistlerinden bahsedelim.
 
