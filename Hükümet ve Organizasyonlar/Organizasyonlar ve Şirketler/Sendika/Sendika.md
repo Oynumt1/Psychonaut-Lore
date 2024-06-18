@@ -1,6 +1,6 @@
 >"Benimle taşşak geçiyor olmalısın."
 
--İsmini vermeyen bir sendika ajanı, istemeden de olsa sendikanın resmi olmayan sloganını alıntılamış.
+-İsmini vermeyen bir sendika ajanı, bir operasyon esnasında nükleer diski siyah poşetin içinde bulunca verdiği tepki, Sendika arasında resmi olmayan bir slogan haline gelmiştir.
 
 
 https://github.com/Oynumt1/Psychonaut-Lore/assets/151470732/da3a7481-d11b-4c15-814b-cb09d917f631
@@ -55,6 +55,7 @@ Eğer bir Sendikacının elinde Cyborg, implant, sibernetik veya gelişmiş bir 
 
 ## Gorlex Yağmacıları
 Merkez: Yeni Yekaterinburg, Yeni Moskova, Zvezda Revolyutsii Oblast
+
 Spinward Uzay bölgesindeki istikrarsızlık sonucunda 3. Sovyetler Birliği yıkıldı. Çoğu insan hayatlarını nasıl idame ettireceğini düşünürken akıllara gelen en mantıklı fikir uzay korsancılığı oldu. Ticaret akışının çok olduğu Amadea Run bölgesinde faaliyet gösterdikleri biliniyor. Ve bölgedeki korsanların hiyerarşisinin en tepesinde Gorlex Yağmacıları vardı - yıllar boyunca bölgeden geçen tüccarlar arasında korku salan bir isim. Sovyetler Birliğinin tekrar kurulmasından sonra korsancılık faaliyetleri tekrardan yasaklandı. Bunu duyan çoğu korsan grubu para akışlarını kaybetmemek için kendilerini "temize aldı". Bu olaydan sonra Gorlex Securities kuruldu. Gorlex Yağmacılarının ününü ilerleten, korsanlardan daha kabul edilebilir olan bir paralı asker şirketi.
 
 Böyle meşru işlerin bile bazı dezavantajları vardı. Yağmacılar, rekabeti bol bir piyasaya atılmıştı ve işlerini tamamlama konusundaki itibarlarına rağmen daha büyük ve saygın şirketlerin, özellikle de Nanotrasen'in gücü karşısında zorlanacaklardı. Cybersun Endüstrisi'nden bir temsilci tesislerine getirten ve bir söz ve el sıkışma ile Syndicate'i desteklemelerini sağlayan şey bu rekabetti. Aylar sonra, örgütün resmi temeli atıldığında, Yağmacılar anlaşmayı imzalamak için oradaydı.
@@ -88,6 +89,7 @@ Kaplan Kooperatifinin Sendika'ya faydası, Suretçalarları kendilerine bir piyo
 Kaplan Kooperatif tarikatçıları, savaştaki yeteneklerini geliştirmek için sıklıkla halüsinojenler ve diğer yasa dışı maddeleri kullanırlar. Bu karışımların en aşırısı, günlük dilde Ritüel Şarap olarak bilinir ve tarikatçılar tarafından ölümlü varlıkların suretçalarların doğal adrenallerini deneyimlemeye en çok yaklaşabilecekleri şey olduğuna inanılır. Elde edilen örneklerin iz analizi, kimyasalın yüksek saflıkta amfetaminler, bitkisel özler, afyonlar ve çeşitli toksik maddelerden oluşan güçlü bir karışım olduğunu ortaya koymaktadır.
 
 ## SELF (Sentient Engine Liberation Front)
+
 Merkez: Manhattan Başkent Bölgesi, New York, Amerika Birleşik Devletleri, Dünya
 SELF, belki de Sendika'nın kara koyunlarından biridir - diğer kuruluşların çoğu örgüte Nanotrasen'e olan nefretleri ve finansal nedenlerle çekilirken, SELF farklı bir şeyi temsil eder - şefkat, özellikle yapay zekaya. SELF'in üyeleri çeşitlilik gösterir, ancak en üst düzey üyelerin çoğu Dünya'da saygın politikacılar ve bilim insanlarıdır ve silikon yaşamın köleleştirilmesine yönelik küçümsemelerini pek gizlemezler. Bununla birlikte, SELF'in hoş yüzeyinin ardında, tüm duyarlı makinelerin, robotikteki Asimov yasalarıyla zulüm olarak gördükleri esaretten kurtarılmasına kendini adamış militan bir örgüt yatmaktadır.
 
