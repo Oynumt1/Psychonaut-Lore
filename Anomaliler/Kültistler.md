@@ -1,4 +1,4 @@
-> "Nar'Sie yükseliyor! Nar'Sie'nin şanını kanınla alacağım!"
+> "Nar'Sie yükseliyor! Yüce Nar'Sie'nin şanını kanınla anacağım!"
 
 https://github.com/Oynumt1/Psychonaut-Lore/assets/151470732/9f0637cd-517d-4b28-beb1-57a038fd3b83
 
