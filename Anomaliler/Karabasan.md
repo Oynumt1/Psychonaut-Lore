@@ -1,7 +1,7 @@
 > "Karanlık Ebedidir. Ancak insanlık değil!"
 ***
 
-Karabasanlar çoğu zaman kişilerin yalnız olarak bulunduğu maintler, dormslar gibi dış ortamlardan uzak ortamlarda insanların korku ve kaygısının oluşması sonucunda meydana gelir. Karabasanlar insanların temel korkuları olan yalnızlık ve karanlık korkusu gibi dürtülerden beslenmesiyle bilinir, Karabasanlar insanlar gibi konuşmasını bilmesinin dışında merhamet, üzüntü gibi duyguları beslediği rahatlıkla görülebilir. Hatta baz Karabasanlar barışçıl bir şekilde insanlara yaklaşabilir. Ancak bu tarz davranışlar sergileyen Karabasanlar diğer Karabasanlar tarafından pek saygılı ve sevgili bir şekilde karşılanmazlar.
+Karabasanlar çoğu zaman kişilerin yalnız olarak bulunduğu maintler, dormslar gibi dış ortamlardan uzak ortamlarda insanların korku ve kaygısının oluşması sonucunda meydana gelir. Karabasanlar insanların temel korkuları olan yalnızlık ve karanlık korkusu gibi dürtülerden beslenmesiyle bilinir, Karabasanlar insanlar gibi konuşmasını bilmesinin dışında merhamet, üzüntü gibi duyguları beslediği rahatlıkla görülebilir.
 
 Karanbasanlar ilk ortaya çıkışlarından itibaren (Tarih belirsiz muhtemel 22 yy. ortaları) konuşularak anlaşılmaya çalışılmış fakat bir türlü başarılı olunamamıştır.
 
