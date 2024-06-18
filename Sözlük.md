@@ -23,6 +23,17 @@
 ***
 - Etheryal - Ethereal
 ***
+- Araknid - Arachnid
+***
+- Kedigilli - Felinid
+***
+- Sinek Birey - Flypeople
+***
+- Jel Birey - Jellypeople
+***
+- İpliksoylu - Moth
+***
+- Çimen Birey - Podman
 
 # Hükümet ve Organizasyonlar
 - Büyücüler Federasyonu - Wizard Federation
