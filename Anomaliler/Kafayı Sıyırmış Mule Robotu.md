@@ -1,4 +1,4 @@
-> "Baylar bu paketlerinin hepsini mule robotuna yükledi-"
+> "Baylar, bu paketlerinin hepsini mule robotuna yükledi-"
 ***
 
 https://github.com/Oynumt1/Psychonaut-Lore/assets/151470732/3685a26e-0377-4e4d-b9bd-62c7fd22cdda
