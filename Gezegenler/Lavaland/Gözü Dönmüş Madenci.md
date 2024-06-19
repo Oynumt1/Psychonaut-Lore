@@ -1,1 +1,4 @@
-
+Lavaland zaman içinde birçok madencinin yuvası oldu. Kimi madenci için sadece bir iş, kimisi için zengin olma fırsatı. Zaman geçtikçe ortaya sayıları az olsada tehlike arz eden bir grup daha ortaya çıktı.
+Sadece kan dökmek için madenci olanlar. Bu madenciler madene indikleri andan itibaren sadece büyük küçük demeden canavar avlarlar. Genelde yeterli madenci olduğundan ve bu kişiler diğerleri için etrafı temizlediğinden
+pek bir sıkıntı olarak gözükmezler. Zaman zaman tek amacı savaşmak olan madenciler o kadar çok savaşırlar ki transa girmeye başlarlar. Yüksek miktarda cesedin bıraktığı kan ve pislik radyolarını da bozar ve istasyonla
+iletişimleri de kesilir. Bu durumda mürettebat farkında olmadan geri döner. Artık unutulup terk edildiğinin bile farkına varamayan madenci uzun süreler boyunca madende gözü dönmüş bir şekilde sıradaki kurbanınını aramaya başlar ve artık kurbanın ne olduğunu bile ayırt edemezler. 
