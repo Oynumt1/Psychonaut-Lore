@@ -1,1 +1,3 @@
-
+Kül ejderleri Lavaland besin zincirinin en üst noktalarıdır. Gezdikleri her yere sanki yeterince yokmuş gibi ateş, lav ve kül saçarlar. Şanslıyızdır ki, vücutları kocaman olduğundan oldukça fazla yemek yemeleri gerekiyor
+ve tabi ki lavaland'de onlar için yeterli miktarda et yok. Zaten az sayıda bulunan türler içerisinde bazılarının eti yenilebilir bile değil. Bu yüzden sayıları fazlasıyla azalmış durumda. Sayıları az olsada bu 
+gezegende ki karşılaşabileceğiniz en ölümcül yaratıklardan biri olduğu gerçeğini değiştirmiyor. Eğer olurda bunlardan biriyle savaşmak zorunda kalırsanız yanınızda yangın tüpü getirmeyi unutmayın.

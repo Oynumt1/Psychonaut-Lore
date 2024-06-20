@@ -1,1 +1,4 @@
-
+Bulunan yazıtlara göre çok uzun zaman önce hala daha Lavaland üzerinde düzgün bir yerleşke varken oranın sakinleri hayat zor olsada bir şekilde hayata tutunup yaşarlarmış. Uzun zamanlar boyunca şehir duvarlarının 
+arkasında güvende olmuşlar. Bir gün yaklaşan kıyamet yüzünü göstermiş artık ölüler ölü kalmıyor onların deyimiyle lejyonlara dönüşüyorlardı. İlk nasıl başladığına dair bir bilgi yazmasada her ölünün lejyonlara dönüşüp
+etrafına saldırıp daha fazla lejyona dönüştürmesiyle beraber şehir çok kısa bir zaman aralığında düşmüş. Şehir artık harap olmanın eşiğindeyken dönemin en güçlü savaşçısı şehir kapsının gardiyanı şehirin kapılarını
+kendiyle beraber mühürleyip şehiri dışarıdan tamamen soyutluyor. Madencilerimize tavsiyemiz mühüre dokunmamalarıdır. Mühürü uyarılara rağmen kırdılarsa da karşılarına çıkacak şeyle savaşmaya hazır olmalarıdır.
