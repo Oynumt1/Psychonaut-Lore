@@ -13,13 +13,13 @@ Sendika içerisinde kurumsal bir üyedir. Kahvaltılık yiyecekler üretir, asl�
 Buraya kadar okuduğunuz şirketler sendika hizmetinde olmakla beraber şirket kurucuları genellikle Asya ve Avrupa kökenlidir.
 -
 
-# Apadyne Teknolojileri
+# Apadyne Teknolojileri Şirketi
 Askeri üretim gerçekleştirirler. Uzay gemileri için zırhlar, mekanik robotlar için gerekli parçalar, savaş için zırhlar ve yüksek patlayıcı malzemeleri üretir.
 
-# Aussec Cephaneliği
+# Aussec Cephaneliği Şirketi
 Askeri üretim gerçekleştirirler. Mühimmatlar, ateşli silahlar ve silah parçaları üretir. Bunlar genellikle ağır piyade birlikleri için uygundur.
 
-# Scarborough Kolları
+# Scarborough Kolları Şirketi
 Askeri üretim gerçekleştirirler. Mühimmatlar, ateşli silahlar ve silah parçaları üretir. Bunlar genellikle hafif piyade birlikleri için uygundur.
 
 # Bozok Güvenlik Şirketi
@@ -27,8 +27,10 @@ Güvenlik kaynaklı üretim gerçekleştirirler. Kameralar ve kasalar üretir.
 
 *Bozok Güvenlik Şirketi NT destekli kurulmuş şirkettir.*
 
+# Demirağ Endüstri Şirketi
+Kuruluşu Modern Türkiye Cumhuriyetine dayanan köklü bir endüstri şirketidir. Son zamanlarda ürettiği robotik malzemelerle tanınmaktadır.
 
-# Nakamura Mühendislik
+# Nakamura Mühendislik Şirketi
 Kapsamlı inşaat ve imalat şirketidir. Mühendislik ekipmanları ve gerekli kıyafetleri üretir. 
 
 *Ayrıca Nakamura Mühendislik NT gibi şirketler için RCDler ve mühendislik malzemeleri üretirler.*
@@ -64,10 +66,10 @@ Tüketilebilir malzemeler üretirler. Genellikle ürettikleri arasında tatlı �
 # TRT
 Bir yayın şirketi olan TRT, Terragov Radyo ve Televizyon kurumudur. Hükümet lehine yaptığı yayınlar ile bilinir.
 
-# Sophronia Yayıncılık
+# Sophronia Yayıncılık Şirketi
 Bir yayın şirketi olan Sophronia Yayıncılık, çeşitli yemek ve tarih programları sunmaktadır. Ayrıca aşçı ve kuratör için beaconlar üreten bir şirkettir.
 
-# HHK Kargoculuk
+# HHK Kargoculuk Şirketi
 Galaksi içerisinde yapmış olduğu kargo teslimleri ile bilinir.
 
 *HHK'nin açılımı bir kargocuya gönderme yapıyor gibi...*
