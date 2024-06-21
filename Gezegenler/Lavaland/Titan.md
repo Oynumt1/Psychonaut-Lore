@@ -1,1 +1,4 @@
-
+Elimizde ki kısıtlı bilgiye göre, Lavaland'in kızgın ve alev alev yanan yüzeyinde, Titan adında devasa bir canavar yaşar. Titan, gezegenin en eski sakinlerinden biridir ve her adımıyla zemini sarsar.
+Bu dev canavarın sesi, volkanik patlamaların gücünü andırır; her konuştuğunda etrafındaki her şey titreşir ve kayalar çatırdar. Onun bu yıkıcı gücünden korkan eski yerel halk görünüşe göre ona kurbanlar sunarlarmış.
+Yerel halka göre Titan Lavaland'in zorlu yaşam şartlarının bir simgesidir. O, hem yıkıcı hem de doğal dengenin bir parçası olarak kabul edilir. Onun varlığı, gezegenin sıcak ve acımasız doğasının bir yansımasıdır, 
+ancak aynı zamanda bu doğanın bir parçası olarak kabul edilir ve saygı görürmüş. Efsaneler ne kadar doğru bilemiyoruz ama yinede madencileri Titan hakkında uyarıyoruz, eğer Titan'dan kaçamazsanız eve dönecek bir cesediniz bile kalmaz.
