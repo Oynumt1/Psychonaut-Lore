@@ -1,1 +1,19 @@
 
+İpliksoylular, İpliksoylu dilinde "Lümla" olarak adlandırılan, uzun zaman önce kaybolmuş bir gezegenden gelmektedir. Sürgünden bu yana geçen yüzyıllar boyunca her marka ve model gemiden oluşan devasa bir topluluk olan Büyük Göçebe Filosu'nda bir araya gelmişlerdir. Filodaki yaşam İpliksoyluları mükemmel mühendisler haline getirmiştir.
+
+İpliksoyluların galaktik sahnedeki geçmişi zorlu olmuştur. Gezegenlerini kaybettikten sonra (Tam anlamıyla kaybettiklerini kastediyorum. Nerede olduğu hakkında hiçbir fikirleri yok. İpliksoyluların toplu olarak ana gezegenlerini nasıl kaybettikleri sorusu on yıllardır tarihçilerin kafasını kurcalıyor) Göçebe Filosu'nda sürgüne zorlandılar ve bu sürgünlerin ilk yılları bir bütün olarak tür için özellikle zor geçti. İpliksoylular, filonun gücünü tesis etmek için korsanlığa sürüklendi ve İpliksoylu korsanları birkaç yüzyıl boyunca galaksinin başına bela oldu. Bu korsanlar bordaladıkları gemilerden parçalar çalarken, bordaladıkları geminin mürettebatı arasındaki kayıpları en aza indirmeye çalışmalarıyla bilinirlerdi.
+
+Filo güçlendikçe ve İpliksoyluların konumu daha güvenli hale geldikçe, korsanlık yavaş yavaş durdu ve İpliksoylular galaksideki diğer türlerle daha yakın ilişkiler kurmaya başladı. Filo artık İpliksoylu mühendisliği hünerlerini ve kurtarma malzemelerini satarak düzenli ve rahat bir kazanç elde etmekte ve bunu da halkın ihtiyaçlarını karşılamak için kullanmaktadır.
+
+Filo, binlerce küçük gemiden oluşan yamalı bir bütündür. Filonun en büyük gemisi olan Filotilla filonun baş gemisidir ve tüm filo buradan yönetilir.Filodaki gemilerin en küçüklerinden bazılarının mürettebatı 4 ya da 5 kişidir ve esasen tek bir aile tarafından iskan edilirler. En büyükleri ise binlerce mürettebatı olan eski başkent gemileri ya da eski koloni gemileridir. Filoda uygun yaştaki herkesin filonun en iyi durumda tutulmasına yardımcı olması beklenir. Pratikte bu, İpliksoylulara 8 yaşından sonra basit görevler verildiği anlamına gelir. 13 yaşından itibaren daha ağır işlere yardımcı olacak kadar büyürler ve 16 yaşında yeni bir gemiye atanmanın yanı sıra iş yerindeki son pozisyonlarına geçerler.
+
+Filoda karne uygulaması tam olarak yürürlüktedir ve her bir mürettebata her hafta bir kutu temel erzakla birlikte bir karne defteri verilir. Bu biletler iki kategoriye ayrılır: gemi yemekhanelerinden yiyecek satın almak için yemek biletleri ve sigara ya da atıştırmalık gibi zorunlu olmayan ürünleri satın almak için lüks biletler. Erzak iyi olduğunda, ki çoğu zaman öyledir, bilet tedariği nispeten cömerttir. Ancak erzak azaldığında, filo bunu telafi etmek için topluca kemer sıkmak zorunda kalır.
+
+Filodaki barınma da benzer şekilde sade. Şanslı mürettebat, özel mürettebat kamaraları olan gemilerde kişisel bir odaya sahip olabilen ya da daha az kişiyle paylaşmak zorunda kalanlardır. Orta derecede şanslı olanlar kişisel bir rafa ya da dönüştürülmüş bir alanda kendilerine ait ayrılmış bir alana sahip olabilirler. Gerçekten şanssız olanlar ise kendilerini mahremiyetin çok az olduğu ya da hiç olmadığı dönüştürülmüş kargo bölmelerinde bulacaklardır.
+
+Lümla'nın şu anki durumu bilinmemektedir. Bazı teorilere göre gezegende hâlâ İpliksoylular yaşamaktadır ve filodakiler de yol göstericiler ya da sürgünlerdir. Bazı teorilere göre ise gezegen gerçekten de bir felaket yüzünden yok olmuştur. Durum ne olursa olsun, filodaki İpliksoylular bunu söylemek istemiyor (ya da söyleyemiyor) gibi görünüyor.
+
+Nanotrasen içerisinde de mühendislik becerilerinden dolayı bolca İpliksoylu bulunmaktadır. Mühendislikdeki üstünlükleri bazılarının spesifik durumlarda diğer mühendislere liderlik ettiği görülmüştür. Nanotrasen içerisinde İpliksoyluların yaşamı çok kolay değildir. Çoğu Nanotrasen aşçısının vejeteryan yemekler yapmayı tercih etmemesi çoğu İpliksoylunun gece yatağına aç girmesine neden olmuştur.
+![Designer (11)](https://github.com/Oynumt1/Psychonaut-Lore/assets/55282547/95264d2d-4f3a-470d-b344-91fa8f1faeee)
+
+
