@@ -1,5 +1,5 @@
 > "*Kıtır *kıtır *kıtır mmmmh bir margherita pizza olmasa da lezzetli yine"
-> Karnı acıktığı için oda arkadaşının keyifle pantolonunu yiyen bir İpliksoylu
+> Karnı acıktığı için keyifle oda arkadaşının pantolonunu yiyen bir İpliksoylu
 ***
 
 İpliksoylular, İpliksoylu dilinde "Lümla" olarak adlandırılan, uzun zaman önce kaybolmuş bir gezegenden gelmektedir. Sürgünden bu yana geçen yüzyıllar boyunca her marka ve model gemiden oluşan devasa bir topluluk olan Büyük Göçebe Filosu'nda bir araya gelmişlerdir. Filodaki yaşam İpliksoylulari mükemmel mühendisler haline getirmiştir.
