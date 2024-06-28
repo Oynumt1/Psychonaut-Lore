@@ -1,6 +1,6 @@
 # Yeni Bir Çalışan Türü
 
-Plazma insanlar, sıradan bir göz için sadece mor iskeletler gibi görünebilir, ancak bu, onları oluşturan organizmaların inanılmaz karmaşıklığını yansıtmaz. Plazma bireyler, sadece bir organizma değil, milyonlarca organizma olan Kolonidler olarak bilinen organizmaların gerçek doğasını yansıtmaktadır.
+Plazma bireyler, sıradan bir göz için sadece mor iskeletler gibi görünebilir, ancak bu, onları oluşturan organizmaların inanılmaz karmaşıklığını yansıtmaz. Plazma bireyler, sadece bir organizma değil, milyonlarca organizma olan Kolonidler olarak bilinen organizmaların gerçek doğasını yansıtmaktadır.
 
 Kolonidler, mikroskopik, plazma tabanlı mantarlar olarak bilinen organizmalar, diğer Kolonidlerle büyük ağlar oluştururlar. Bu koloniler, zamanla milyarlarca organizmayı içerebilecek şekilde uzanabilir ve bir araya gelerek tek bir uyumlu sosyal birim oluştururlar. İlk olarak Freyja adlı buzlu ayın sıvı plazma havuzlarında mor mantar olarak keşfedildiklerinde, Kolonidler göz ardı edilmişti, ta ki Nanotrasen araştırmacıları, bu organizmaların küçük elektriksel uyarılar ürettiğini keşfetene kadar. Daha fazla araştırma, bu uyarıların sinir sinyallerinin bir benzeri olduğunu ortaya çıkardı ve araştırmacılar, bu organizmaların zeka sahibi bir yaşam formu olabileceğini merak etti.
 
