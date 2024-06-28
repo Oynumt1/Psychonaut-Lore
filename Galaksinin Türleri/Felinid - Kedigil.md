@@ -22,3 +22,5 @@ Bir gemi kazası sonrası ise bu durum değişti. 13 kişilik bir keşif gemisi,
 
 ## Patlama ve Hayatta Kalma Mücadelesi
 İşleri bitirdikten sonra evlerine dönmek üzere gemiye bindiklerinde, beklenmedik bir patlama gerçekleşti. Sağ motorlarından birinde patlama meydana gelmişti ve gemi tehlike altındaydı. Sebep bilinmiyordu: sabotaj mı yoksa yeterince iyi bakım mı yapılmamıştı? Bu sorular cevapsız kaldı ve mürettebatın aklında tek bir soru vardı: hayatta kalabilecekler miydi?
+
+![Adsız tasarım](https://github.com/Oynumt1/Psychonaut-Lore/assets/172262803/9bc4d95c-775f-4ec6-b548-af04e4ccecc6)
