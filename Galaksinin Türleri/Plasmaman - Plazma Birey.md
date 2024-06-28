@@ -41,3 +41,6 @@ Ancak, herkes bu kadar olumlu tepki vermedi. Hayvan Hakları Konsorsiyumu ve di�
 * Plazma bireyler, herhangi bir iskeleti veya gerçekten organik bir yüzeyi enfekte edebilir - Nanotrasen, onları mahkum cesetlerinin bedenlerinden ucuzca temin edebildiği için genellikle insan iskeletlerini kullanır. Evet, bu, plazma bireylerin dinozor iskeletleri gibi şeylere de bulaşabileceği anlamına gelir ve evet, bu oldukça çığır açıcıdır.
 * Plazma bireyler, insan benzeri davranışları sergiler, çoğunlukla sınırlı bir zaman diliminde insan toplumuyla entegre olduklarından. Bununla birlikte, galaktik sahnede kısa bir sürede kendi benzersiz kültürlerini geliştirmişlerdir.
 * Plazma bireyler sadece radyasyona karşı bağışıklı değil, aynı zamanda onu oldukça verimli bir enerji kaynağı olarak kullanırlar. Icemoon'da arka planda yayılan düşük miktardaki radyasyon bile onları beslemek için yeterlidir.
+
+* ![image](https://github.com/Oynumt1/Psychonaut-Lore/assets/55282547/ecbfe1a1-d46d-4f13-acb1-c299a80cedfa)
+
