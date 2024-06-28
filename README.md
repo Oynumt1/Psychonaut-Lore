@@ -2,7 +2,7 @@
 
 Yıl 2563, evren fokur fokur kaynıyor. Devasa mega-şirketler entrika ve suikastlerden silahlı mücadeleye kadar her yolu kullanıp evrenin en uzak köşelerine genişlerken ve devletler çaresizce onları dizginleyip üstlerinde güç kazanmaya çalışırken, bir yandan da akla hayale sığmaz teknolojiler yaratılıp yok ediliyor. Ama arkanıza yaslanıp büyük resme bakarken, 26. yüzyılda yaşamın en ilgi çekici kısımlarını gözden kaçırabilirsiniz. Bunlar kişilerin, evcil hayvanların, silikonların ve Nanotrasen girişimlerinden en az birinin işine herhangi bir şekilde karışmış olan diğer her şeyin hikayeleridir.
 
-![Samanyolu](https://github.com/Oynumt1/Psychonaut-Lore/assets/151470732/2ce4ceea-2148-4d4d-ba9b-e3b9ca867d7d)
+![Samanyolu](https://github.com/Oynumt1/Psychonaut-Lore/assets/55282547/e56f7868-3574-4c56-b2bf-39342e6f62fd)
 
 Bir varış noktası olan Uzay İstasyonu 13, 2548'deki lansmanından bu yana serüvenci kesimler nezdinde neredeyse efsaneleşmiş duruma ulaşmıştır. Bir takım benzer istasyonlarla birlikte, medeni uzayın sınırlarının derinliklerinde küçük, son derece gizli ve gizli bir plazma araştırma tesisi olarak başladı. İstasyona ulaşım son derece gizli tutuldu ve kimsenin yerini bilmediği bir araştırma istasyonuna gidip bilinmedik konular üzerinde çalışmak isteyen kalifiye personel eksikliği nedeniyle personel standartları çok iyi olmasa da Nanotrasen istasyonu az çok ayakta tutmayı başardı. Çok sayıda güvenlik olayı meydana geldi ve istasyondaki yaşam tehlikeli ve düşman casuslarından kara büyülere ve daha fazlasına kadar tehditlerle karşı karşıya kaldı ve tüm istasyon sadece elle yeniden inşa edilmek üzere birkaç kez patlatıldı veya ortadan kayboldu, ancak geri gelen mineraller ve bilgi, önemli masrafları fazlasıyla harcananı kapattı.
 
