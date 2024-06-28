@@ -4,3 +4,5 @@
 
 # Çimen Birey'lerin Özellikleri
 Çimen Bireylerin özelliklerine değinecek olursak, kendileri ışıkların fazla olduğu ortamları severler ve o tarz ortamlarda iyileşirler ve açlıkları giderilir ama çok fazla ışıklı ortamda dururlarsa durum obezliğe yol açar, karanlık ortamlarda ise acıkmaya başlarlar ve zarar görürler. Yiyecek olarak et tüketemezler, sadece bitki tarzı şeyler tüketirler. Son olarak Yapay Zeka'nın asimov yasalarına dahil değildirler ve Yapay Zeka tarafından gözetlenip korunmazlar, Yapay Zeka'ya emir veremezler.
+
+![image](https://github.com/Oynumt1/Psychonaut-Lore/assets/55282547/3428cd24-d905-4f06-bd2f-2225f69aff9f)
